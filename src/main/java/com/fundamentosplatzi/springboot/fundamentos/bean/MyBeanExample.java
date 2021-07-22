@@ -1,2 +1,5 @@
-package com.fundamentosplatzi.springboot.fundamentos.bean;public interface MyBeanExample {
+package com.fundamentosplatzi.springboot.fundamentos.bean;
+
+public interface MyBeanExample {
+    void printBeanExample();
 }
